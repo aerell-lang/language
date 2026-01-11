@@ -1,0 +1,6 @@
+# ptr type
+ident * # void*
+ident type*
+
+# ptr dereference
+*ident
