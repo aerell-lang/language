@@ -1,0 +1,21 @@
+i32 # integer 32 bit
+i64 # integer 64 bit
+f32 # float 32 bit
+f64 # float 64 bit
+
+chr # char
+str # string
+
+mut # mutable
+pub # public
+ext # extern
+
+stc # struct
+
+if # if
+is # case
+els # else
+
+is # switch
+
+loop # do, while, for
