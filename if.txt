@@ -1,0 +1,17 @@
+if <expr>: # code
+
+if <expr> {
+    # code
+}
+
+if <expr> {
+    <expr>:
+        # code
+}
+
+if <expr> {
+    <expr>:
+        # code
+    :
+    # code
+}
